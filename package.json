@@ -1,0 +1,15 @@
+{
+	"name": "emptyproject",
+	"description": "Total.js empty project.",
+	"version": "1.0.0",
+	"main": "debug.js",
+	"dependencies": {
+		"total.js": "latest"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["empty", "project"],
+	"author": "Peter Širka",
+	"license": "MIT"
+}
