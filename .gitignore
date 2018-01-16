@@ -1,4 +1,6 @@
 flow/*
+flowboard/*
+dashboard/*
 databases/*
 public/*
 tmp/*
