@@ -1,2 +1,4 @@
-
+flow/*
+databases/*
+public/*
 tmp/*
