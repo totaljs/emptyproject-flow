@@ -4,3 +4,5 @@ dashboard/*
 databases/*
 public/*
 tmp/*
+node_modules/*
+
