@@ -1,10 +1,10 @@
 {
-	"name": "emptyproject",
-	"description": "Total.js empty project.",
+	"name": "totalproject",
+	"description": "Empty project",
 	"version": "1.0.0",
-	"main": "debug.js",
+	"main": "index.js",
 	"dependencies": {
-		"total.js": "latest"
+		"total4": "latest"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
