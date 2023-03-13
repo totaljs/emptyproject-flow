@@ -1,4 +1,13 @@
-name                         : Total.js Flow
+name                  : Code
+allow_custom_titles   : true
 
-// Packages settings
-package#flow       (Object)  : { url: '/' }
+cookie   (generate)   : 10
+authkey  (generate)   : 10
+
+backup                : /www/tmp/backup/
+autodiscover          : /www/www/
+
+allow_tms             : false
+
+folder_www     (env)  : FOLDER_WWW
+folder_npm     (env)  : FOLDER_NPM
